@@ -35,7 +35,7 @@ remote GitHub repository. Follow the steps below exactly to receive full credit.
    where you should now have this file, `readme.md`, on your local computer. Open the file in your
    editor, and write below the URL to your fork of the GitHub repository, and the add and commit:
 
-   My Production Problems repository URL:
+   My Production Problems repository URL:https://github.com/mariavo1/fwd-production-problems.git
 
 4. Next, push your commit to GitHub. `git push origin main` from your command line.
 
@@ -56,3 +56,4 @@ remote GitHub repository. Follow the steps below exactly to receive full credit.
    https://github.com/fwd-2020/fwd-production-problems/network/members each week that a Production
    Problem is due; all you need to do to turn in your work is ensure that you’ve pushed your commits
    for each problem to your remote.
+
