@@ -23,6 +23,13 @@ p {
   padding-top: 20px;
   padding-bottom: 20px;
 }
+#supprting {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
 #quick-facts {
   list-style-type: disc;
+}
+footer {
+  padding-top: 20px;
 }
