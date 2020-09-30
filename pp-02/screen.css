@@ -1,0 +1,12 @@
+#primary {
+  background-color: green;
+}
+h2 {
+  font-style: bold;
+}
+#content {
+  font-style: italic;
+}
+p {
+  overflow: break-word;
+}
