@@ -27,6 +27,9 @@ p {
   padding-top: 20px;
   padding-bottom: 20px;
 }
+.facts {
+  font-style: bold;
+}
 #quick-facts {
   list-style-type: disc;
 }
