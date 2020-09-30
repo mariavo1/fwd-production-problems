@@ -16,7 +16,10 @@ h2 {
 }
 #content {
   font-style: italic;
+  list-style-type: disc;
 }
 p {
   overflow: break-word;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
